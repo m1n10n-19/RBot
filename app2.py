@@ -45,7 +45,7 @@ def get_vectorstore(text_chunks):
 
 # Function to create a conversation chain
 def get_conversation_chain(vectorstore):
-    llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY)
+    llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY, model_name="gpt-4")  # Changed to GPT-4
     memory = ConversationBufferMemory(memory_key='chat_history', return_messages=True)
     conversation_chain = ConversationalRetrievalChain.from_llm(
         llm=llm,
@@ -53,6 +53,7 @@ def get_conversation_chain(vectorstore):
         memory=memory
     )
     return conversation_chain
+
 
 # Function to handle user input
 def handle_userinput(user_question):
