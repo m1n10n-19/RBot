@@ -75,8 +75,8 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = None
 
-    st.header("Discover something new about your wild self today")
-    user_question = st.text_input("Ready to tame your inner demons?? Talk to me!")
+    st.header("Discover something new about the hero within right now!")
+    user_question = st.text_input("Ready to conquer your inner demons?? Let's go!")
     if user_question:
         handle_userinput(user_question)
 
