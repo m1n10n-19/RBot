@@ -8,8 +8,9 @@ from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
-from key import OPENAI_API_KEY
 import os
+
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # Load environment variables
 load_dotenv()
