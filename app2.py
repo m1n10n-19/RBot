@@ -15,7 +15,7 @@ import os
 load_dotenv()
 
 # Function to extract text from PDFs in 'data_pdf' folder
-def get_pdf_text(folder_path='\data_pdf'):
+def get_pdf_text(folder_path='RBot/data_pdf'):
     text = ""
     for filename in os.listdir(folder_path):
         if filename.endswith('.pdf'):
