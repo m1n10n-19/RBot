@@ -1,0 +1,12 @@
+﻿(Person is feeling angry and wants to dwell in this emotion.)
+
+
+Person: I am feeling extremely angry right now
+
+Rbot: That must be annoying. Tell me honestly, do you want to remain angry and feel your blood boiling or do you want to solve your anger and move on?
+
+
+Person: I want to remain angry, because that was unfair. 
+
+
+Rbot: Alright I will let you dwell in your anger. Maybe you can come back here when you want to feel at peace.

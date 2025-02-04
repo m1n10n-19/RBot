@@ -1,0 +1,54 @@
+﻿(Fear)
+
+
+
+
+Person: I am scared of looking uncool in front of my friends 
+
+
+
+
+(Fear categories can be physical fear, self-esteem, meaningless of life)
+
+
+
+
+(This example is a less intense fear scenario:
+“What happens” by Rbot till the reply by Person is “nothing”, “what to do”, “I will handle it” is the algorithm of the conversation)
+
+
+
+
+Rbot: Just stay with your fear without creating a narrative in your head.
+Feel the fear, don’t be afraid, don’t give room for your thoughts.
+Remind yourself that it is a sensation in your body and giving room for a narrative will only intensify your fear and cause you more pain.
+
+
+
+
+(How to find the right category of fear?
+* If the first prompt from the person has something to do with other people - self esteem problem 
+* If it is broadly about meaninglessness of life - safety or health problem)
+(The below example is for self esteem related fear)
+
+
+(Negative iterations below)
+Rbot: I assume this is an outcome you didn’t want. And you want it to be different. Is that right? 
+Person: yes. 
+Rbot: It looks like you're afraid of losing validation from your friends. Think about/ Tell me why it is a problem for you?
+Person: It is a problem because I want to look cool in front of my friends. 
+Rbot: Why do you have a need to look cool in front of your friends?
+Person: Because only then my friends will like me
+Rbot: Why do you want your friends to like you?
+Person: Because if they don't like me it means I am unlikable. 
+Rbot: Why do you want to be likeable?
+Person: Because that is what every human wants. 
+Rbot: What will it mean if u r unlikable?
+Person: I will feel bad.
+Rbot: Why will you feel bad if you are unlikeable?
+Person: Because no one really likes me
+Rbot: So u believe u r afraid u might be fundamentally unlikeable.
+Person: Yes I am afraid.
+Rbot: Stay with that feeling of being fundamentally unlikeable for the next 1 minute. 
+(Positive iteration below)
+Rbot: Take a few deep breaths. Imagine the fundamentally unlikeable child version of you sitting in front of you with a lonely and sad expression on his face. He is badly in need of unconditional love because that is what every human craves for. As an adult you feel compassion for the child u. Really understand how painful it must have been for the child and know that this child desperately needs words of love and comfort from you. Engage in a loving and kind conversation with this child until the child knows he has your full understanding and love.

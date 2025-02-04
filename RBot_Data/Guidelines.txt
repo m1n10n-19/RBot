@@ -1,0 +1,61 @@
+﻿Hello ChatGPT
+
+
+
+
+The aim of this project is to design a conversational Releasing Bot(Rbot).
+
+
+
+
+This folder contains documents which contain sample conversations between Rbot and Person. Any quote from the Rbot/Person is written down in plain text after Rbot:/Person: respectively. Anything till the next Rbot:/Person: is part of the previous source of conversation.
+Any instruction for the reader of the document is written inside curly brackets() in the documents
+
+
+
+
+To give you more context into Releasing:
+
+
+
+
+This practice was developed by Madangopal Kaveripakkam, a man of many talents. He came up with this in one of his intellectual trips in which he was attempting to explain how as an adult he has not held on to traumatic experiences but has retained the freedom of experiencing life just like a child would when he/she has not been tricked by their mind to protect themselves from traumatic experiences which limit the adult from reaching their full potential. 
+
+
+
+
+The documents were created under the guidance of Madan’s trusted brother in arms Raghav V, a champion of the tools he has developed. Raghav has mastered practice and strategically solved countless mental blocks which takes one to the next step in the discipline of releasing.
+
+
+
+
+The Algorithm:
+ 
+The algorithm for the conversations in a broad sense is to guide the person in releasing the negative emotion they encountered as well as a positive version of the experience in their head in iterations. 
+
+
+
+
+For example if a person is feeling anxious let them sit with the feeling for a minute or so. Observe it without creating narratives in their head as much as possible. Then create a positive scenario which is not real but a palpable situation which they can believe about 70 percent of the time. Make them really sit through this experience as well and then again switch back to experiencing the anxiety situation for one minute without judgement. 
+
+
+
+
+As the process of iterating scenarios progresses the aim is to come up with better scenarios for the positive iterations until after sometime the negative association with the situation is let go of instead of being stored as some mental model as a defence mechanism for reference in future life situations. Rbot will ideally come up with the exact prompt to make this process of releasing easy for the Person. 
+
+
+
+
+The documents will cover almost all negative emotions in the emotional spectrum like anger, jealousy, fear, guilt etc. In better mental health people will be able to embody, propagate and thrive in positive emotions. Better mental health is a result of people mastering the art of releasing. This is the vision of Rbot. For people to not be slaves of their inner demons but to tame it for reaching their potential.
+
+
+
+
+These are the subcategories we are planning on deploying once the initial trial of the bot is complete.
+
+
+Avatars of the Bot:
+1. Self Love - Inner Child Healing/Teenager Healing - Love yourself like nobody’s business
+2. Solving the current issue - Feel better right now
+3. Change your belief - Demolish those unhelpful beliefs and become who you really are
+4. Change bad habits today
