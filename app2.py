@@ -67,7 +67,7 @@ def handle_userinput(user_question):
 
 # Main Streamlit app
 def main():
-    st.set_page_config(page_title="RBot", page_icon=":heart:")
+    st.set_page_config(page_title="RBot", page_icon="🤖")
     st.write(css, unsafe_allow_html=True)
 
     if "conversation" not in st.session_state:
